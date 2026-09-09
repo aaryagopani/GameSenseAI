@@ -104,13 +104,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙌 Special Thanks  
- 
-- [Vasu Boda](https://www.linkedin.com/in/vasu-boda-93355a253/)  
-- [Akshat Vaja](https://www.linkedin.com/in/akshat-vaja/)  
-- [Achyut Dave](https://www.linkedin.com/in/daveachyut/)
-- [Sashrik Gupta](https://www.linkedin.com/in/sashrik-gupta-0a9210257/)
-
 ## 📬 Contact
 
 For any questions or collaboration opportunities, reach out at:
